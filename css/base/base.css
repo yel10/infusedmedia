@@ -1,0 +1,21 @@
+body {
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    text-rendering: auto;
+    font-family: 'helvetica', Arial, sans-serif;
+    font-size: 16px;
+    color: #7c7c7c;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
